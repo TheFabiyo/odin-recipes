@@ -1,0 +1,35 @@
+* {
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+    background: lightblue;
+}
+h1 {
+    color:green;
+}
+img {
+    height: auto;
+    width: 600px;
+}
+h3 {
+    color: red;
+}
+p {
+    font-size: 30px;
+    border: 3px solid white;
+    padding: 10px 50px 20px;
+    text-align: justify;
+}
+ul {
+    list-style-type: none;
+}
+.ing {
+    font-size: 26px;
+    border: thick double purple;
+
+}
+.ins {
+    font-size: 14px;
+    border: 1rem solid;
+    padding: 5px 20px 10px 20px;
+}
